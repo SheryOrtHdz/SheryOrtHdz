@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
 
-<h4> Frameworks </h4>
+<h4> Frameworks y librerías </h4>
 
 <span>
   <!--  Springboot -->
